@@ -12,14 +12,14 @@ This dashboard provides business visibility into retail mobile sales performance
 
 ## 🎯 Key Performance Indicators (KPIs)
 
-The dashboard tracks four primary business metrics at the top of every page[cite: 1]:
+The dashboard tracks four primary business metrics at the top of every page:
 
 | KPI | Value | Description |
 | :--- | :--- | :--- |
-| **Total Sales** | **769M** | Total gross revenue generated across all transactions[cite: 1]. |
-| **Total Quantity** | **19K** | Total number of mobile phone units sold[cite: 1]. |
-| **Transactions** | **4K (3,835)** | Total number of completed sales orders[cite: 1]. |
-| **Average Price** | **40.11K** | Average selling price per unit sold[cite: 1]. |
+| **Total Sales** | **769M** | Total gross revenue generated across all transactions. |
+| **Total Quantity** | **19K** | Total number of mobile phone units sold. |
+| **Transactions** | **4K (3,835)** | Total number of completed sales orders. |
+| **Average Price** | **40.11K** | Average selling price per unit sold. |
 
 ---
 
@@ -36,18 +36,18 @@ The dashboard tracks four primary business metrics at the top of every page[cite
 ## 🖥️ Dashboard Views
 
 ### 1. Executive Dashboard
-* Overview of brand sales, model rankings, payment channel distribution, city-wise sales volume, and customer ratings[cite: 1].
+* Overview of brand sales, model rankings, payment channel distribution, city-wise sales volume, and customer ratings.
 * Includes interactive slicers for Mobile Model, Brand, and Payment Method.
 
 
 ### 2. Month-to-Date (MTD) Report
-* Tracks daily cumulative revenue throughout the selected month to monitor target pacing[cite: 1].
+* Tracks daily cumulative revenue throughout the selected month to monitor target pacing.
 * Displays day-by-day sales progression alongside current month KPIs.
 
 
 
 ### 3. Same Period Last Year (SPLY) Analysis
-* Compares current period revenue against prior-year benchmarks across years (2021–2024), quarters, and months[cite: 1].
+* Compares current period revenue against prior-year benchmarks across years (2021–2024), quarters, and months.
 * Identifies Year-over-Year (YoY) growth trends and performance gaps.
 
 
