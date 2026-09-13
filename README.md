@@ -38,19 +38,19 @@ The dashboard tracks four primary business metrics at the top of every page[cite
 ### 1. Executive Dashboard
 * Overview of brand sales, model rankings, payment channel distribution, city-wise sales volume, and customer ratings[cite: 1].
 * Includes interactive slicers for Mobile Model, Brand, and Payment Method.
-![Dashboard View](docs/dashboard_overview.png)
+
 
 ### 2. Month-to-Date (MTD) Report
 * Tracks daily cumulative revenue throughout the selected month to monitor target pacing[cite: 1].
 * Displays day-by-day sales progression alongside current month KPIs.
 
-![MTD Report View](docs/mtd_report.png)
+
 
 ### 3. Same Period Last Year (SPLY) Analysis
 * Compares current period revenue against prior-year benchmarks across years (2021–2024), quarters, and months[cite: 1].
 * Identifies Year-over-Year (YoY) growth trends and performance gaps.
 
-![SPLY View](docs/sply_comparison.png)
+
 
 ---
 
